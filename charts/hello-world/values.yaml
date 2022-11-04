@@ -26,3 +26,6 @@ serviceAccount:
 service:
   type: ClusterIP
   port: 80
+
+spec:
+  replicas: 2
