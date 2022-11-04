@@ -3,6 +3,16 @@ entries:
   hello-world:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2022-11-04T15:51:04.775093217Z"
+    description: A Helm chart for Kubernetes
+    digest: 084afbaf61102257de7382b1059f7eea5e10c0394fa4352ab2d7a38a8a869bd3
+    name: hello-world
+    type: application
+    urls:
+    - https://github.com/nocturne1/helmtest/releases/download/hello-world-0.1.2/hello-world-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2022-11-04T15:43:56.061972313Z"
     description: A Helm chart for Kubernetes
     digest: d4c4e79f7c246187457fa43b5551784c0b292e72911b7dcae9bef90fba9b17d8
@@ -52,4 +62,4 @@ entries:
     urls:
     - https://github.com/nocturne1/helmtest/releases/download/second-chart-0.1.0/second-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2022-11-04T15:43:56.061990813Z"
+generated: "2022-11-04T15:51:04.775189818Z"
