@@ -14,6 +14,16 @@ entries:
   second-chart:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2022-11-04T15:35:07.536596101Z"
+    description: A SECOND Helm chart for Kubernetes
+    digest: ecbe8ffeb76b385df0046ec614557c83dd2f7bec993f01565b1ac84c06de1a7a
+    name: second-chart
+    type: application
+    urls:
+    - https://github.com/nocturne1/helmtest/releases/download/second-chart-0.1.1/second-chart-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2022-11-04T15:29:38.339151863Z"
     description: A Helm chart for Kubernetes
     digest: 34391e78ac5d77c9acc673cc19d327d62e179aa3df944c4fd194cf22c1d44bc5
@@ -22,4 +32,4 @@ entries:
     urls:
     - https://github.com/nocturne1/helmtest/releases/download/second-chart-0.1.0/second-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2022-11-04T15:29:38.339157063Z"
+generated: "2022-11-04T15:35:07.536607301Z"
